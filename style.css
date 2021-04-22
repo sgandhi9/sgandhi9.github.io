@@ -1,3 +1,10 @@
+.header {
+  background-color: black;
+  text-align: center;
+  font-family: 'Courier New', Courier, monospace;
+  font-size: larger;
+}
+
 .topnav {
   background-color: #333;
   overflow: hidden;
