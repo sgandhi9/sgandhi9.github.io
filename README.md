@@ -3,4 +3,4 @@
 Status: Design
 
 Currently working on:
-  - Creating Static Webpage.
+  - Creating homepage for Portfolio
